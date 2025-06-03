@@ -1,2 +1,2 @@
 # To-do-List
-To do list in python and sql
+this is my first project using python and sqlite, hope you enjoy
